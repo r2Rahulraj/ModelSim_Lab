@@ -1,0 +1,8 @@
+F:/ModelSIM_Lab/ha_df.v {1 {vlog -work work -stats=none F:/ModelSIM_Lab/ha_df.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ha_df
+
+Top level modules:
+	ha_df
+
+} {} {}}
